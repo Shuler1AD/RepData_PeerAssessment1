@@ -1,7 +1,5 @@
----
-title: "Reporducible Research: Peer Assessment 1"
-output: html_document
----
+Reporducible Research: Peer Assessment 1
+
 Loading and preprocessing the data
 ```{r}
 library(base)
