@@ -1,6 +1,6 @@
 ---
-title: "Reporducible Research: Peer Assessment 1"
-output: html_document
+title: 'Reporducible Research: Peer Assessment 1'
+output: pdf_document
 ---
 Loading and preprocessing the data
 ```{r}
