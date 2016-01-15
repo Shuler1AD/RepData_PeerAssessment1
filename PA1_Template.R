@@ -1,5 +1,5 @@
 #Loading and preprocessing the data
-library(base)
+library(knitr)
 library(lattice)
 unzip(zipfile="activity.zip")
 data <- read.csv("activity.csv")

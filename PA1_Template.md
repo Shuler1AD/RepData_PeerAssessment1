@@ -2,7 +2,7 @@ Reporducible Research: Peer Assessment 1
 
 Loading and preprocessing the data
 ```{r}
-library(base)
+library(knitr)
 library(lattice)
 unzip(zipfile="activity.zip")
 data <- read.csv("activity.csv")
